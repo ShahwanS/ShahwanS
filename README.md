@@ -9,12 +9,6 @@ With **3 years of frontend development** under my belt, I’ve worked on various
 
 You can check out my work and latest projects on my [**Portfolio Website**](https://portfolio.stormyfocus.cloud/en).
 
-### Let’s Connect
-
-I’m always eager to learn more, collaborate on exciting projects, and discuss new ideas.  
-Feel free to reach out if you’d like to **team up** or simply **talk tech**!
-
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/stormyfocus/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://de.linkedin.com/in/seif-shahwan-94bb0a1a6)
