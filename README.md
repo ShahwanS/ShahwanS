@@ -1,12 +1,28 @@
 # 💫 About Me:
 
-I’m a 24-year-old student at Philipps-Universität Marburg, currently in my final semester. I have around 3 years of frontend development experience and I’m now expanding my skill set to become a full-stack developer by diving into backend technologies.
+# Hello there! 👋
 
-Frontend Experience: Freelance projects focused on responsive design, modern frameworks, and clean UI/UX.
-Backend Learning: Currently exploring Node.js, Express, and various databases to build scalable applications.
-Collaboration & Open Source: Always open to working on interesting projects or contributing to open-source.
-Side Projects & Hobbies: Experimenting with new tools and frameworks, and always eager to learn something new.
-I love meeting fellow developers, sharing knowledge, and creating meaningful products together. Feel free to reach out if you’d like to collaborate or just talk tech!
+I’m a **24-year-old student** at Philipps-Universität Marburg, currently finishing my final semester.  
+With **2 years of frontend development** under my belt, I’ve worked on various web projects using modern frameworks and CMS platforms like **Strapi** and **Prismic**. I’m passionate about creating sleek, responsive UIs and have a particular fondness for **React**, **Next.js**, and **Tailwind CSS**.
+
+---
+
+## Expanding into Full-Stack
+
+Lately, I’ve been venturing into the **backend** world, focusing on **NestJS** to build robust, large-scale applications. Combining this newfound backend knowledge with my frontend experience allows me to tackle full-stack challenges and deliver end-to-end solutions.
+
+## Portfolio
+
+You can check out my work and latest projects on my [**Portfolio Website**](https://portfolio.stormyfocus.cloud/en).
+
+---
+
+### Let’s Connect
+
+I’m always eager to learn more, collaborate on exciting projects, and discuss new ideas.  
+Feel free to reach out if you’d like to **team up** or simply **talk tech**!
+
+
 
 ## 🌐 Socials:
 
