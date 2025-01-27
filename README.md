@@ -3,25 +3,18 @@
 # Hello there! 👋
 
 I’m a **24-year-old student** at Philipps-Universität Marburg, currently finishing my final semester.  
-With **2 years of frontend development** under my belt, I’ve worked on various web projects using modern frameworks and CMS platforms like **Strapi** and **Prismic**. I’m passionate about creating sleek, responsive UIs and have a particular fondness for **React**, **Next.js**, and **Tailwind CSS**.
+With **3 years of frontend development** under my belt, I’ve worked on various web projects using modern frameworks and CMS platforms like **Strapi** and **Prismic**. I’m passionate about creating sleek, responsive UIs and have a particular fondness for **React**, **Next.js**, and **Tailwind CSS**.
 
 ---
-
-## Expanding into Full-Stack
-
-Lately, I’ve been venturing into the **backend** world, focusing on **NestJS** to build robust, large-scale applications. Combining this newfound backend knowledge with my frontend experience allows me to tackle full-stack challenges and deliver end-to-end solutions.
 
 ## Portfolio
 
 You can check out my work and latest projects on my [**Portfolio Website**](https://portfolio.stormyfocus.cloud/en).
 
----
-
 ### Let’s Connect
 
 I’m always eager to learn more, collaborate on exciting projects, and discuss new ideas.  
 Feel free to reach out if you’d like to **team up** or simply **talk tech**!
-
 
 
 ## 🌐 Socials:
