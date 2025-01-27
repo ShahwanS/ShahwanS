@@ -1,10 +1,7 @@
 # 💫 About Me:
 
-# Hello there! 👋
-
 I’m a **24-year-old student** at Philipps-Universität Marburg, currently finishing my final semester.  
 With **3 years of frontend development** under my belt, I’ve worked on various web projects using modern frameworks and CMS platforms like **Strapi** and **Prismic**. I’m passionate about creating sleek, responsive UIs and have a particular fondness for **React**, **Next.js**, and **Tailwind CSS**.
-
 ---
 
 ## Portfolio
