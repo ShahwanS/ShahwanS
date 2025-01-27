@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I’m a 24-year-old student at Philipps-Universität Marburg, currently in my final semester. I have around 2 years of frontend development experience and I’m now expanding my skill set to become a full-stack developer by diving into backend technologies.
+I’m a 24-year-old student at Philipps-Universität Marburg, currently in my final semester. I have around 3 years of frontend development experience and I’m now expanding my skill set to become a full-stack developer by diving into backend technologies.
 
 Frontend Experience: Freelance projects focused on responsive design, modern frameworks, and clean UI/UX.
 Backend Learning: Currently exploring Node.js, Express, and various databases to build scalable applications.
